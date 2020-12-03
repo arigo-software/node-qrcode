@@ -19,7 +19,7 @@
     "fs": false
   },
   "files": [
-    "build_mod",
+    "build_mod"
   ],
   "homepage": "http://github.com/soldair/node-qrcode",
   "license": "MIT",
